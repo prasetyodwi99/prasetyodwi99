@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/prasetyoo.99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://www.discord.com/estilo331" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -43,8 +46,8 @@
 
 # GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=prasetyodwi99&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=prasetyodwi99&theme=gruvbox&hide_border=false" />
+  <img alt="github stats" src="https://github-readme-stats.shion.dev/api/top-langs/?username=prasetyodwi99&theme=gruvbox">
 </div>
 
 <h1 data-importer="text" align="left">Play Games</h1>
@@ -56,7 +59,6 @@
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=prasetyodwi99&theme=gruvbox">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=prasetyodwi99&theme=gruvbox">
-  <img alt="github stats" src="https://github-readme-stats.shion.dev/api/top-langs/?username=prasetyodwi99&theme=gruvbox">
 </picture>
 
 ###
