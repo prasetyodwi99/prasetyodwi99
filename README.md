@@ -1,16 +1,16 @@
 ![Prasetyo](/img/github-header-banner.png)
 
-<h2 data-importer="text" align="left">About me</h2>
+<h1 data-importer="text" align="left">About me</h1>
 
 ###
 
 <br clear="both">
 
-<h4 data-importer="text" align="center">Hello World!<br>My name is Prasetyo<br>I am an Informatics Engineering student</h4>
+<h3 data-importer="text" align="center">Hello World!<br>My name is Prasetyo<br>I am an Informatics Engineering student</h3>
 
 ###
 
-<h2 data-importer="text" align="left">Socials</h2>
+<h1 data-importer="text" align="left">Socials</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tech Stack</h2>
+<h1 data-importer="text" align="left">Tech Stack</h1>
 
 ###
 
@@ -40,9 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prasetyodwi99&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prasetyodwi99&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prasetyodwi99&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 
-<h2 data-importer="text" align="left">Play Games</h2>
+<h1 data-importer="text" align="left">Play Games</h1>
 
 ###
 
