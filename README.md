@@ -4,9 +4,10 @@
 
 ###
 
-<br clear="both">
-
-<h3 data-importer="text" align="center">Hello World!<br>My name is Prasetyo<br>I am an Informatics Engineering student</h3>
+- 🏫 Studying **Informatics Engineering**
+- 💻 Passionate about **Web Development** & **Software Development**
+- 🛠️ Currently working with **Python**, **C++**, and **Front-End Web Tech**
+- 🎯 Goal: Digitalizing business operations and building efficient software tools
 
 ###
 
@@ -40,12 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-# GitHub Stats:
+# GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=prasetyodwi99&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=prasetyodwi99&theme=gruvbox&hide_border=false" />
 </div>
-###
 
 <h1 data-importer="text" align="left">Play Games</h1>
 
